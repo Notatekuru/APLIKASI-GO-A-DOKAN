@@ -1,4 +1,4 @@
-# APLIKASI GO A'DOKAN
+# ?????????????
 GO A'DO 🛵
 
 Aplikasi layanan bantu-membantu antar-santri berbasis Python. Butuh sesuatu? Tinggal pilih layanannya, lalu sistem gacha memilihkan siapa yang membantu. Selesai dibantu, kasih bintang 5.
